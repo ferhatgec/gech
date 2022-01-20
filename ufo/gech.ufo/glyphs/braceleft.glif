@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceleft" format="2">
+  <advance width="800" height="800"/>
+  <unicode hex="007B"/>
+  <outline>
+    <contour>
+      <point x="189" y="395" type="line"/>
+      <point x="300" y="395" type="line"/>
+      <point x="300" y="778" type="line"/>
+      <point x="610" y="778" type="line"/>
+      <point x="610" y="659" type="line"/>
+      <point x="419" y="660" type="line"/>
+      <point x="418" y="-44" type="line"/>
+      <point x="611" y="-44" type="line"/>
+      <point x="611" y="-162" type="line"/>
+      <point x="300" y="-162" type="line"/>
+      <point x="300" y="204" type="line"/>
+      <point x="190" y="204" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-162</integer>
+            <key>width</key>
+            <integer>118</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>204</integer>
+            <key>width</key>
+            <integer>191</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>660</integer>
+            <key>width</key>
+            <integer>118</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>190</integer>
+            <key>width</key>
+            <integer>228</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>300</integer>
+            <key>width</key>
+            <integer>310</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>300</integer>
+            <key>width</key>
+            <integer>119</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

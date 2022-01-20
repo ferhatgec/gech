@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni00A0" format="2">
+  <advance width="1024" height="1024"/>
+  <unicode hex="00A0"/>
+  <outline>
+    <contour>
+      <point x="414" y="272" type="move" smooth="yes"/>
+      <point x="542" y="239"/>
+      <point x="620" y="228"/>
+      <point x="542" y="238" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>
